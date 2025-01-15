@@ -60,7 +60,7 @@ Scan the QR code with the Expo Go app on your device to preview the app.
    ```bash
    eas build --platform android --profile apk
    ```  
-##Screenshots
+## Screenshots
 ![image](https://github.com/user-attachments/assets/eec44c14-ae85-4418-a718-c87bac01f71d)
 
 ### Download Link  
