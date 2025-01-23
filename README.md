@@ -76,4 +76,10 @@ Scan the QR code with the Expo Go app on your device to preview the app.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+👋 Attention Avegen Health Team
+Dear Avegen Health Team,
+
+Thank you for the opportunity to work on this task. If you're reviewing this repository, I’d greatly appreciate your feedback. Please let me know if there are any improvements or additional insights you'd like to share.
+
+Looking forward to hearing your thoughts!
 
